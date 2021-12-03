@@ -36,6 +36,10 @@ img {
     max-width: 100%;
 }
 
+section a {
+    color: #fff;
+}
+
 /*------------------------------------- Navbar */
 
 .navbar {
@@ -200,6 +204,25 @@ img {
 .py-lg {
     padding: 40px 0;
 }
+
+/*------------------------------------- Box */
+
+.box {
+    margin-bottom: 30px;
+}
+
+.box-inner {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.reg-icon {
+    font-size: 50%;
+}
+
+/*------------------------------------- Grid Styles */
+
+
 
 /*------------------------------------- Media Queries */
 
