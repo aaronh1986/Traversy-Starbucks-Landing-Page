@@ -200,3 +200,27 @@ img {
 .py-lg {
     padding: 40px 0;
 }
+
+/*------------------------------------- Media Queries */
+
+@media (max-width: 950px) {
+    .text-xl {
+        font-size: 30px;
+    }
+
+    .text-lg {
+        font-size: 25px;
+    }
+
+    .text-md {
+        font-size: 19px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .box {
+        max-width: 1440px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
